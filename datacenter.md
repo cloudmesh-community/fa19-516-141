@@ -6,7 +6,8 @@ Year Built: 2004
 IT load: 4800 KW
 Cost per kWh in CA: 14.47Cents: $0.1447
 Cost per Year: 4800*0.1447*24*365 : $6.08M
-
+Carbon foot print: 4800*24*365*16.44: 691,269,120pounds: 313,554 Tons
+Equivalent Cars: 66,572
 
 ## E.Datacenter.3
 My own Carbon footprint is 15952 Lbs of CO2
@@ -44,6 +45,7 @@ b)	Alabama: As per 2019 data from the below referenced website,
 
 
 ### References:
+
 4.a)  https://www.awea.org/wind-101/basics-of-wind-energy/wind-facts-at-a-glance
 4.b)  https://www.telehouse.com/2017/01/any-way-the-wind-blows/
 4.c)  https://www.datacenterknowledge.com/wind-powered-data-centers
