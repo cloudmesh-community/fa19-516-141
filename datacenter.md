@@ -4,7 +4,7 @@
 
 :o2: use proper lists
 
-# E.DataCenter.2
+## E.DataCenter.2
 
 * DataCenter: Digital Reality, SFO, CA.
 * Year Build: 2004
@@ -14,11 +14,11 @@
 * Corbon Foot Print: 4800*24*365*16.44 : 691.269,120 pounds : 313,554 Tons
 * Equivalent Cars: 66,572
 
-# E.DataCenter.3
+## E.DataCenter.3
 
 My own carbon footprint is 15,952lbs of CO2
 
-# E.DataCenter.4
+## E.DataCenter.4
 
 Wind Energy: Wind energy reduces the CO2 emissions.
 
@@ -31,7 +31,7 @@ c2) Baryonyx Corp.(Texas)
 c3) Green House Data(Wyoming)
 c4) Microsoft Virtual Earth(Colorado)
 
-# E.DataCenter.5
+## E.DataCenter.5
 
 a) InUS:
 Out of total energy produced in US, 17.1% from renewable energy sources.
@@ -44,7 +44,7 @@ Total electricity generagtion: 140.0 Million(6th highest in US)
 Largest renewable energy source: Hydroelectric(9.2 Million MWh)
 Renewable energy growth in 10 years: 61.8%(18th lowest in US)
 
-# E.DataCenter.8
+## E.DataCenter.8
 
 Data Centers effected by outages are appoximately: 33.33% in 2018 & 
 25% in 2017.
@@ -57,7 +57,7 @@ appropriate planning, good processes in place and robust design.
 According to IT Intelligence Consulting Report of 2018, average outage cost
 of $260,000/Hour and a five-minute outage costs $2,600.
 
-# References:
+## References:
 
 4.a) <https://www.awea.org/wind-101/basics-of-wind-energy/wind-facts-at-a-glance>
 4.b) <https://www.telehouse.com/2017/01/any-way-the-wind-blows/>
