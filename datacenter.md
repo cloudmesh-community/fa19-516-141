@@ -64,4 +64,4 @@ of $260,000/Hour and a five-minute outage costs $2,600.
 4.c) <https://www.datacenterknowledge.com/wind-powered-data-centers>
 5.a) <https://www.prescouter.com/2019/04/2018-was-a-record-year-for-renewable-energy-2019-could-be-the-same/>
 5.b) <https://www.usatoday.com/story/money/2019/07/26/renewable-energy-hydro-wind-solar-power-produced-by-each-state/39801879/>
-8) <https://www.datacenterknowledge.com/uptime/lessons-years-data-center-outages-focus-fundamentals>
+8) <https://www.datacenterknowledge.com/uptime/lessons-years-data-center-outages-focus-fundamentals> 
