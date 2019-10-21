@@ -1,5 +1,6 @@
 # Deployement Of Database in the Cloud
 
+:o2: name and hid missing
 
 ## Objective 
 Deploying the Database in multiple clouds.
