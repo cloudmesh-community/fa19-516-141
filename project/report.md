@@ -16,6 +16,9 @@ Look at the major public cloud providers stake.
 Top four Cloud service providers Scorecard in 2018.
 ![Image](https://zdnet2.cbsistatic.com/hub/i/r/2018/02/09/b6fed299-809f-43fc-a732-f1343ec2b8d9/resize/770xauto/98f060c985c6b39b00822a62e1d3c15a/aws-vs-azure-vs-google-vs-ibm.png)
 
+The challenges while using the Cloud services are given below
+![Image](https://zdnet4.cbsistatic.com/hub/i/2019/01/23/e19ceee2-17bd-4a4f-9249-82613ec7a428/20a459a33fd6e9176e29346fb0d78a5f/kentik-report-2019a.png)
+
 ## Synapsis 
 - Can be considered cloud storage(Example: Create a Bucket in case of Google)
      to deploy the Database. 
