@@ -1,6 +1,6 @@
 # Deployement Of Database in the Cloud
 
-:o2: name and hid missing
+Balakrishna Katuru(Bala) - fa19-516-141
 
 ## Objective 
 Deploying the Database in multiple clouds.
