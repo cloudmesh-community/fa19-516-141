@@ -5,6 +5,11 @@ Balakrishna Katuru(Bala) - **[fa19-516-141](https://github.com/cloudmesh-communi
 ## Objective 
 Deploying the Database in multiple clouds.
 
+## Types of Cloud – Services Models
+
+![Image](https://www.devteam.space/wp-content/uploads/2017/07/Cloud-Models.jpg)
+
+
 ## Synapsis 
 - Can be considered cloud storage(Example: Create a Bucket in case of Google)
      to deploy the Database. 
@@ -13,7 +18,10 @@ Deploying the Database in multiple clouds.
 - Use an abstract API to deploy the Database independent of the underlying infrastructure.
 
 ## Technologies
-Python, Cloudmesh, AWS, API, Rest
+Python, 
+Cloudmesh, 
+AWS, 
+API, Rest
 
 ## Participants 
 Bala
