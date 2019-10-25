@@ -27,10 +27,10 @@ The challenges while using the Cloud services are given below
 - Use an abstract API to deploy the Database independent of the underlying infrastructure.
 
 ## Technologies
-Python, 
-Cloudmesh, 
-AWS, 
-API, Rest
+* Python 
+* Cloudmesh 
+* AWS 
+* API / Rest
 
 ## Participants 
 Bala
