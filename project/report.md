@@ -1,4 +1,4 @@
-# Deployement Of Database in the Cloud
+# Deployement Of Database in Multiple Cloud
 
 Balakrishna Katuru(Bala) - **[fa19-516-141](https://github.com/cloudmesh-community/fa19-516-141)**.<br/>
 
